@@ -2,16 +2,15 @@ project:
   type: website
 
 website:
-  description: "A blog built with Quarto"
+  description: "This is Lalu Thomas' personal Blog."
   site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
-  title: "my-blog"
+  title: "Lalu Thomas"
   navbar:
     right:
-      - about.qmd
+      - text: Blog
+        href: blog.qmd
       - icon: github
-        href: https://github.com/
-      - icon: bluesky
-        href: https://bsky.app/
+        href: https://github.com/LaluThomas
 format:
   html:
     theme:
