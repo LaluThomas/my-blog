@@ -1,0 +1,61 @@
+
+.subscription-form {
+    display: flex;
+    align-items: center;
+    border: 1.2px solid #d1d5db;
+    border-radius: 24px;       /* thinner pill */
+    overflow: hidden;
+    max-width: 420px;          /* slightly narrower */
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+
+/* Input — thinner Medium style */
+.rounded-input {
+    flex: 1;
+    padding: 10px 14px;        /* thinner height */
+    border: none;
+    outline: none;
+    font-size: 0.95rem;        /* slightly smaller text */
+    background: #fafafa;
+    transition: background 0.2s ease, box-shadow 0.2s ease;
+}
+
+.rounded-input:focus {
+    background: #ffffff;
+    box-shadow: 0 0 0 2px rgba(0, 105, 255, 0.15);
+}
+
+/* Button — Medium black, thinner */
+.embedded-button {
+    background-color: #000000;
+    color: white;
+    border: none;
+    padding: 10px 18px;        /* thinner height */
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 0 24px 24px 0;
+    transition: background 0.2s ease, transform 0.1s ease;
+}
+
+.embedded-button:hover {
+    background-color: #333333;
+}
+
+.embedded-button:active {
+    transform: scale(0.98);
+}
+
+.site-footer {
+    text-align: center;
+}
+
+.subscribe-headline {
+    margin-bottom: 1rem;
+}
+
+.subscription-form {
+    margin: 0 auto;
+    margin-bottom: 0.75rem;
+}
