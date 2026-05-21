@@ -1,12 +1,29 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2026-05-16"
-categories: [news]
+title: "It Worked"
+date: "2026-05-21"
+description: "The moment my Quarto blog finally went live — and how it felt."
+categories: ["blog", "personal"]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Tonight, something small but meaningful happened:  
+**my blog went live.**
 
-![](thumbnail.jpg)
+There’s a very specific feeling you get the first time you deploy something you built yourself. It’s a mix of relief, disbelief, and a quiet little “holy crap, I actually did it.”
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+After wrestling with Quarto, GitHub, GitHub Actions, branches, caches, and a few cryptic error messages, I finally saw the thing every developer wants to see:  
+**a green tick.**  
+Then another one.  
+And suddenly… my blog was live.
+
+What made it even better was the tab I had open right next to it:  
+**Hadley Wickham’s website.**
+
+Seeing my own Quarto‑powered site come alive while his sat in the next tab felt poetic — like I’d just stepped into the same open‑source publishing ecosystem he helped build.
+
+This blog is simple right now. A few posts, a clean layout, nothing fancy. But it’s mine. It lives on the internet. And it works.
+
+If you’re reading this, welcome.  
+This is the beginning — of writing, sharing, building in public, and documenting the things I learn along the way.
+
+And if you’re someone staring at a red ❌ in GitHub Actions wondering if you’ll ever see green… trust me, you will. And when you do, it feels good!!
+
