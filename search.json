@@ -9,15 +9,15 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "It Worked",
+    "title": "It Worked!!",
     "section": "",
-    "text": "Tonight, something small but meaningful happened:\nmy blog went live.\nThere’s a very specific feeling you get the first time you deploy something you built yourself. It’s a mix of relief, disbelief, and a quiet little “holy crap, I actually did it.”\nAfter wrestling with Quarto, GitHub, GitHub Actions, branches, caches, and a few cryptic error messages, I finally saw the thing every developer wants to see:\na green tick.\nThen another one.\nAnd suddenly… my blog was live.\nWhat made it even better was the tab I had open right next to it:\nHadley Wickham’s website.\nSeeing my own Quarto‑powered site come alive while his sat in the next tab felt poetic — like I’d just stepped into the same open‑source publishing ecosystem he helped build.\nThis blog is simple right now. A few posts, a clean layout, nothing fancy. But it’s mine. It lives on the internet. And it works.\nIf you’re reading this, welcome.\nThis is the beginning — of writing, sharing, building in public, and documenting the things I learn along the way.\nAnd if you’re someone staring at a red ❌ in GitHub Actions wondering if you’ll ever see green… trust me, you will. And when you do, it feels good!!"
+    "text": "Tonight, something small but meaningful happened:\nmy blog went live.\nThere’s a very specific feeling you get the first time you deploy something you built yourself. It’s a mix of relief, disbelief, and a quiet little “holy crap, I actually did it.”\nAfter wrestling with Quarto, GitHub, GitHub Actions, branches, caches, and a few cryptic error messages, I finally saw the thing anyone hopes to see after trying to publish something online:\na green tick.\nThen another one.\nAnd suddenly… my blog was live.\nWhat made it even better was the tab I had open right next to it:\nHadley Wickham’s website.\nSeeing my own Quarto‑powered site come alive while his sat in the next tab felt poetic — like I’d just stepped into the same open‑source publishing ecosystem he helped build.\nThis blog is simple right now. A few posts, a clean layout, nothing fancy. But it’s mine. It lives on the internet. And it works.\nIf you’re reading this, welcome.\nThis is the beginning — of writing, sharing, building in public, and documenting the things I learn and enjoy along the way.\nAnd if you’re someone staring at a red ❌ in GitHub Actions wondering if you’ll ever see green… trust me, you will. And when you do, it feels good!!"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Lalu Thomas",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nIt Worked\n\n\n\nblog\n\npersonal\n\n\n\nThe moment my Quarto blog finally went live — and how it felt.\n\n\n\n\n\nMay 21, 2026\n\n2 min\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nIt Worked!!\n\n\n\nblog\n\npersonal\n\n\n\nThe moment my Quarto blog finally went live — and how it felt.\n\n\n\n\n\nMay 21, 2026\n\n1 min\n\n\n\n\nNo matching items"
   }
 ]
