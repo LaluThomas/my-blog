@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "lalu Thomas"
 image: profile.jpg
 about:
   template: jolla
@@ -12,4 +12,4 @@ about:
       href: https://github.com/LaluThomas
 ---
 
-About this blog
+I’m Lalu — a CPA‑qualified accountant who learned early on that spreadsheets can only take us so far. I’ve spent years working in finance and accounting, and along the way I’ve become passionate about using technology to make work faster, clearer, and a lot more enjoyable.
