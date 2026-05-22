@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/why-should-we-blog/post.html",
       "/posts/welcome/index.html"
     ]
   }
