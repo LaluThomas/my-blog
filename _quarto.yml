@@ -7,8 +7,10 @@ website:
   title: "Lalu Thomas"
   navbar:
     right:
-      - text: Blog
-        href: blog.qmd
+      - text: Home
+        href: index.qmd
+      - text: About Lalu Thomas
+        href: about.qmd
       - icon: github
         href: https://github.com/LaluThomas
 format:
