@@ -1,8 +1,9 @@
 ---
-title: "It Worked!!"
+title: "Why we should blog"
 date: "2026-05-21"
 description: "Why we should blog."
 categories: ["blog", "personal"]
+image: "thumbnail.png"
 ---
 We probably read many blogs saying why blogging is good — monetising your blog, building a personal brand, opening job opportunities, and so on. Those reasons are fine, but in my view, blogging goes beyond all of that. It’s a place where you can simply be you.
 
