@@ -12,7 +12,7 @@
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Thu, 21 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>It Worked!!</title>
+  <title>Why we should blog</title>
   <dc:creator>Lalu Thomas</dc:creator>
   <link>https://your-website-url.example.com/posts/why-should-we-blog/post.html</link>
   <description><![CDATA[ 
@@ -37,6 +37,7 @@
   <category>personal</category>
   <guid>https://your-website-url.example.com/posts/why-should-we-blog/post.html</guid>
   <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/why-should-we-blog/thumbnail.png" medium="image" type="image/png" height="40" width="144"/>
 </item>
 <item>
   <title>It Worked!!</title>
