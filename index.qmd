@@ -1,15 +1,13 @@
 ---
-title: "Lalu Thomas"
-image: profile.jpg
-about:
-  template: jolla
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/lalu-thomas-a7480597/
-    - icon: github
-      text: Github
-      href: https://github.com/LaluThomas
+listing:
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+page-layout: full
+title-block-banner: false
 ---
-
-I’m Lalu — a CPA‑qualified accountant who learned early on that spreadsheets can only take us so far. I’ve spent years working in finance and accounting, and along the way I’ve become passionate about using technology to make work faster, clearer, and a lot more enjoyable.

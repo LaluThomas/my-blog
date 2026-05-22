@@ -3,6 +3,7 @@ title: "It Worked!!"
 date: "2026-05-21"
 description: "The moment my Quarto blog finally went live — and how it felt."
 categories: ["blog", "personal"]
+image: "image.jpg"
 ---
 
 Tonight, something small but meaningful happened:\
