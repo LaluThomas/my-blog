@@ -6,21 +6,21 @@
       version="2.0">
 <channel>
 <title>Lalu Thomas</title>
-<link>https://your-website-url.example.com/blog.html</link>
-<atom:link href="https://your-website-url.example.com/blog.xml" rel="self" type="application/rss+xml"/>
+<link>https://your-website-url.example.com/</link>
+<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>This is Lalu Thomas&#39; personal Blog.</description>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Thu, 21 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Why we should blog</title>
   <dc:creator>Lalu Thomas</dc:creator>
-  <link>https://your-website-url.example.com/posts/why-should-we-blog/post.html</link>
+  <link>https://your-website-url.example.com/posts/why-should-we-blog/</link>
   <description><![CDATA[ 
 
 
 
 
-<p>We probably read many blogs saying why blogging is good — monetising your blog, building a personal brand, opening job opportunities, and so on. Those reasons are fine, but in my view, blogging goes beyond all of that. It’s a place where you can simply be you.</p>
+<p><img src="https://your-website-url.example.com/posts/why-should-we-blog/thumbnail.jpg" class="img-fluid"> We probably read many blogs saying why blogging is good — monetising your blog, building a personal brand, opening job opportunities, and so on. Those reasons are fine, but in my view, blogging goes beyond all of that. It’s a place where you can simply be you.</p>
 <p>Life is getting busier and faster. There isn’t much time to wind down. Most of us are constantly shifting between the roles we play — employee, son, daughter, dad, mum. The days blur together: work, dinner, thinking about what to pack for the kids’ lunch, school drop‑off, weekend sports, family and friends’ catch‑ups. It just keeps going.</p>
 <p>In all of that, there’s hardly any time that actually belongs to you.</p>
 <p>Some people are really good at journalling — like my daughter. She lights a candle and writes in her diary almost every day. She showed me a few pages once, and they were beautiful. Movie tickets, little notes, tiny things that probably have no monetary value, but through preservation they become meaningful. They look like memories you can hold in your hand.</p>
@@ -35,9 +35,8 @@
  ]]></description>
   <category>blog</category>
   <category>personal</category>
-  <guid>https://your-website-url.example.com/posts/why-should-we-blog/post.html</guid>
+  <guid>https://your-website-url.example.com/posts/why-should-we-blog/</guid>
   <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/why-should-we-blog/thumbnail.png" medium="image" type="image/png" height="40" width="144"/>
 </item>
 <item>
   <title>It Worked!!</title>
@@ -70,6 +69,7 @@ This is the beginning — of writing, sharing, building in public, and documenti
   <category>personal</category>
   <guid>https://your-website-url.example.com/posts/welcome/</guid>
   <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/welcome/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

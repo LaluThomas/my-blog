@@ -1,8 +1,8 @@
 [
   {
-    "listing": "/blog.html",
+    "listing": "/index.html",
     "items": [
-      "/posts/why-should-we-blog/post.html",
+      "/posts/why-should-we-blog/index.html",
       "/posts/welcome/index.html"
     ]
   }
