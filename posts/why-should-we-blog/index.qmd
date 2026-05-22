@@ -5,7 +5,8 @@ description: "Why we should blog."
 categories: ["blog", "personal"]
 ---
 
-![](thumbnail.jpg)
+![GitHub contributions](thumbnail.jpg){fig-cap="My GitHub contribution graph" width="100%"}
+<br>
 We probably read many blogs saying why blogging is good — monetising your blog, building a personal brand, opening job opportunities, and so on. Those reasons are fine, but in my view, blogging goes beyond all of that. It’s a place where you can simply be you.
 
 Life is getting busier and faster. There isn’t much time to wind down. Most of us are constantly shifting between the roles we play — employee, son, daughter, dad, mum. The days blur together: work, dinner, thinking about what to pack for the kids’ lunch, school drop‑off, weekend sports, family and friends’ catch‑ups. It just keeps going.
