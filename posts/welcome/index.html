@@ -184,12 +184,18 @@ This is the beginning — of writing, sharing, building in public, and documenti
 
 </main> <!-- /main -->
 <footer class="site-footer">
+  
+  <!--
   <p class="subscribe-headline">
     Join for free to get updates from this writer.
   </p>
+  -->
 
-  <form action="https://buttondown.com/api/emails/embed-subscribe/lalu" method="post" class="subscription-form">
+  <form action="https://buttondown.com/api/emails/embed-subscribe/lalu" method="post" target="popupwindow" class="subscription-form">
     <input type="email" name="email" placeholder="Enter your email" class="rounded-input" required="">
+    <!-- Honeypot anti-spam field -->
+    <input type="text" name="hp" style="display:none">
+    
     <button type="submit" class="embedded-button">Subscribe</button>
   </form>
 
