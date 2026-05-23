@@ -1,11 +1,15 @@
 ---
 title: "Why we should blog"
-date: "2026-05-21"
+date: "2026-05-22"
 description: "Why we should blog."
 categories: ["blog", "personal"]
+format:
+  html:
+    fig-cap-location: bottom
 ---
-
-![GitHub contributions](thumbnail.jpg){fig-cap="My GitHub contribution graph" width="100%"}
+::: {#contrib-figure}
+![GitHub contributions](image.jpg){fig-cap="My GitHub contribution graph"}
+:::
 <br>
 We probably read many blogs saying why blogging is good — monetising your blog, building a personal brand, opening job opportunities, and so on. Those reasons are fine, but in my view, blogging goes beyond all of that. It’s a place where you can simply be you.
 
