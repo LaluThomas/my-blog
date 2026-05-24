@@ -6,11 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Lalu Thomas">
-<meta name="dcterms.date" content="2026-05-21">
-<meta name="description" content="The moment my Quarto blog finally went live — and how it felt.">
+<meta name="dcterms.date" content="2026-05-23">
+<meta name="description" content="Learn basic commands like cd, mkdir, dir, and pwd.">
 
-<title>It Worked!! – Lalu Thomas</title>
+<title>Introduction to the Command Prompt for Windows – Lalu Thomas</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -29,23 +28,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -75,17 +74,17 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="../../styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Lalu Thomas</span>
     </a>
   </div>
@@ -96,15 +95,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../tutorials.html"> 
+    <a class="nav-link" href="../tutorials.html"> 
 <span class="menu-text">Tutorials</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About Lalu Thomas</span></a>
   </li>  
   <li class="nav-item compact">
@@ -123,41 +122,33 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">It Worked!!</h1>
+<h1 class="title">Introduction to the Command Prompt for Windows</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">blog</div>
-    <div class="quarto-category">personal</div>
+    <div class="quarto-category">terminal</div>
+    <div class="quarto-category">beginners</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    The moment my Quarto blog finally went live — and how it felt.
+    Learn basic commands like cd, mkdir, dir, and pwd.
   </div>
 </div>
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Lalu Thomas </p>
-          </div>
-  </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">May 21, 2026</p>
+      <p class="date">May 23, 2026</p>
     </div>
   </div>
   
@@ -169,22 +160,36 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Tonight, something small but meaningful happened:<br>
-<strong>my blog went live.</strong></p>
-<p>There’s a very specific feeling you get the first time you deploy something you built yourself. It’s a mix of relief, disbelief, and a quiet little “holy crap, I actually did it.”</p>
-<p>After wrestling with Quarto, GitHub, GitHub Actions, branches, caches, and a few cryptic error messages, I finally saw the thing anyone hopes to see after trying to publish something online:<br>
-<strong>a green tick.</strong><br>
-Then another one.<br>
-And suddenly… my blog was live.</p>
-<p>What made it even better was the tab I had open right next to it:<br>
-<strong>Hadley Wickham’s website.</strong></p>
-<p>Seeing my own Quarto‑powered site come alive while his sat in the next tab felt poetic — like I’d just stepped into the same open‑source publishing ecosystem he helped build.</p>
-<p>This blog is simple right now. A few posts, a clean layout, nothing fancy. But it’s mine. It lives on the internet. And it works.</p>
-<p>If you’re reading this, welcome.<br>
-This is the beginning — of writing, sharing, building in public, and documenting the things I learn and enjoy along the way.</p>
-<p>And if you’re someone staring at a red ❌ in GitHub Actions wondering if you’ll ever see green… trust me, you will. And when you do, it feels good!!</p>
+<p>This tutorial introduces the command terminal for complete beginners.</p>
+<section id="why-the-command-prompt-matters-also-known-as-cmd-or-the-command-line" class="level2">
+<h2 class="anchored" data-anchor-id="why-the-command-prompt-matters-also-known-as-cmd-or-the-command-line">Why the command prompt matters (also known as cmd or the command line)</h2>
+<p>The command line is a lightweight tool that lets us interact with our computer by typing instructions instead of clicking with a mouse. Mouse‑based actions can sometimes feel slow or clunky, while the terminal stays fast and reliable. It also becomes very useful when we start learning programming, because many tools expect us to use the terminal — and in some cases, it’s the simplest or only way to run certain tasks. Once you get familiar with it, it is fun to use. It just takes a little practice.</p>
+</section>
+<section id="basic-commands" class="level2">
+<h2 class="anchored" data-anchor-id="basic-commands">Basic commands</h2>
+<section id="pwd" class="level3">
+<h3 class="anchored" data-anchor-id="pwd"><code>pwd</code></h3>
+<p>Shows where you are.</p>
+</section>
+<section id="cd" class="level3">
+<h3 class="anchored" data-anchor-id="cd"><code>cd</code></h3>
+<p>Move into a folder.</p>
+</section>
+<section id="cd-.." class="level3">
+<h3 class="anchored" data-anchor-id="cd-.."><code>cd ..</code></h3>
+<p>Move back one level.</p>
+</section>
+<section id="mkdir" class="level3">
+<h3 class="anchored" data-anchor-id="mkdir"><code>mkdir</code></h3>
+<p>Create a new folder.</p>
+</section>
+<section id="dir" class="level3">
+<h3 class="anchored" data-anchor-id="dir"><code>dir</code></h3>
+<p>List files in the current folder.</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <footer class="site-footer">
@@ -631,8 +636,6 @@ This is the beginning — of writing, sharing, building in public, and documenti
     }
   });
   </script>
-<script src="https://utteranc.es/client.js" repo="LaluThomas/my-blog-comments" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
-</script>
 </div> <!-- /content -->
 
 

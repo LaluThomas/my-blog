@@ -12,6 +12,29 @@
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Thu, 21 May 2026 14:00:00 GMT</lastBuildDate>
 <item>
+  <title>Should accountants — or anyone who creates reports — care about Quarto?</title>
+  <dc:creator>Lalu Thomas</dc:creator>
+  <link>https://your-website-url.example.com/posts/does-quarto-matters/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>As per <a href="https://quarto.org/">Quarto</a> it is described as <strong>“An open-source scientific and technical publishing system”</strong>. Okay… that sounds like something only researchers or programmers would care about.</p>
+<p>But if you read the second heading on their homepage — <em>“Analyze. Share. Reproduce. You have a story to tell with data—tell it with Quarto.”</em> — it suddenly feels much more relevant. This is exactly what accountants, analysts, and anyone who prepares reports regularly (for example, reports to managers) are already doing: <strong>analysing data, sharing results, and producing documents in PDF or Word</strong>.</p>
+<ul>
+<li><strong>Isn’t it a dashboard better</strong><br>Dashboards are great, but organisations still rely heavily on <strong>PDF and Word reports</strong>. People like the feeling of reading a structured document, and many situations require <strong>written context, explanations, commentary, or narrative</strong> — things dashboards alone can’t provide.<br><strong>Dashboards show <em>what</em> happened.</strong><br><strong>Reports explain <em>why</em> it matters.</strong></li>
+</ul>
+
+
+
+ ]]></description>
+  <category>blog</category>
+  <category>personal</category>
+  <guid>https://your-website-url.example.com/posts/does-quarto-matters/</guid>
+  <pubDate>Thu, 21 May 2026 14:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Why we should blog</title>
   <dc:creator>Lalu Thomas</dc:creator>
   <link>https://your-website-url.example.com/posts/why-should-we-blog/</link>

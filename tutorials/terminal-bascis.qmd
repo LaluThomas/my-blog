@@ -1,0 +1,28 @@
+---
+title: "Introduction to the Command Prompt for Windows"
+description: "Learn basic commands like cd, mkdir, dir, and pwd."
+date: "2026-05-23"
+categories: [terminal, beginners]
+---
+
+This tutorial introduces the command terminal for complete beginners.
+
+## Why the command prompt matters (also known as cmd or the command line)
+The command line is a lightweight tool that lets us interact with our computer by typing instructions instead of clicking with a mouse. Mouse‑based actions can sometimes feel slow or clunky, while the terminal stays fast and reliable. It also becomes very useful when we start learning programming, because many tools expect us to use the terminal — and in some cases, it’s the simplest or only way to run certain tasks. Once you get familiar with it, it is fun to use. It just takes a little practice.
+
+
+## Basic commands
+### `pwd`
+Shows where you are.
+
+### `cd`
+Move into a folder.
+
+### `cd ..`
+Move back one level.
+
+### `mkdir`
+Create a new folder.
+
+### `dir`
+List files in the current folder.
