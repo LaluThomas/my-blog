@@ -1,8 +1,8 @@
 ---
 title: "Should accountants — or anyone who creates reports — care about Quarto?"
-date: "2026-05-22"
+date: "2026-05-24"
 description: "Does Quarto matters"
-categories: ["blog", "personal"]
+categories: ["blog", "quarto", "report automation", "dynamic reports"]
 format:
   html:
     fig-cap-location: bottom
@@ -16,7 +16,7 @@ It is not just PDF and Word reports that you can prepare with Quarto. You can bu
 
 - **Isn't a dashboard better?**<br>Dashboards are great, but organisations still rely heavily on **PDF and Word reports**. People like the feeling of reading a structured document, and many situations require **written context, explanations, commentary, or narrative** — things dashboards alone can’t provide.<br>**Dashboards show *what* happened.**<br>**Reports explain *why* it matters.**
 
-- **Is it hard to learn Quarto**<br> No — it is not hard at all. In fact, Quarto is probably the **easiest way to automate your reports.**
+- **Is it hard to learn Quarto?**<br> No — it is not hard at all. In fact, Quarto is probably the **easiest way to automate your reports.**
 Remember, you are **not** learning HTML, CSS, or JavaScript. You don’t need to know anything about how websites are built. You simply write in plain text (Markdown), and Quarto takes care of the formatting, styling, and publishing.
 
 Quarto lets you focus on **your content,** not the technical details.
