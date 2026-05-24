@@ -1,8 +1,15 @@
 [
   {
+    "listing": "/tutorials.html",
+    "items": [
+      "/tutorials/terminal-bascis.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/why-should-we-blog/index.html",
+      "/posts/does-quarto-matters/index.html",
       "/posts/welcome/index.html"
     ]
   }

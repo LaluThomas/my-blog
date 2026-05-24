@@ -47,6 +47,32 @@
   <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>Should accountants — or anyone who creates reports — care about Quarto?</title>
+  <dc:creator>Lalu Thomas</dc:creator>
+  <link>https://your-website-url.example.com/posts/does-quarto-matters/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>As per <a href="https://quarto.org/">Quarto</a> it is described as <strong>“An open-source scientific and technical publishing system”</strong>. Okay… that sounds like something only researchers or programmers would care about.</p>
+<p>But if you read the second heading on their homepage — <em>“Analyze. Share. Reproduce. You have a story to tell with data—tell it with Quarto.”</em> — it suddenly feels much more relevant. This is exactly what accountants, analysts, and anyone who prepares reports regularly (for example, reports to managers) are already doing: <strong>analysing data, sharing results, and producing documents in PDF or Word</strong>.</p>
+<p>It is not just PDF and Word reports that you can prepare with Quarto. You can build a <strong>website/blog</strong> (without knowing any HTML, CSS or JavaScript - the building blocks of the internet), write a <strong>book</strong> and more.</p>
+<ul>
+<li><p><strong>Isn’t a dashboard better?</strong><br>Dashboards are great, but organisations still rely heavily on <strong>PDF and Word reports</strong>. People like the feeling of reading a structured document, and many situations require <strong>written context, explanations, commentary, or narrative</strong> — things dashboards alone can’t provide.<br><strong>Dashboards show <em>what</em> happened.</strong><br><strong>Reports explain <em>why</em> it matters.</strong></p></li>
+<li><p><strong>Is it hard to learn Quarto</strong><br> No — it is not hard at all. In fact, Quarto is probably the <strong>easiest way to automate your reports.</strong> Remember, you are <strong>not</strong> learning HTML, CSS, or JavaScript. You don’t need to know anything about how websites are built. You simply write in plain text (Markdown), and Quarto takes care of the formatting, styling, and publishing.</p></li>
+</ul>
+<p>Quarto lets you focus on <strong>your content,</strong> not the technical details.</p>
+
+
+
+ ]]></description>
+  <category>blog</category>
+  <category>personal</category>
+  <guid>https://your-website-url.example.com/posts/does-quarto-matters/</guid>
+  <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>It Worked!!</title>
   <dc:creator>Lalu Thomas</dc:creator>
   <link>https://your-website-url.example.com/posts/welcome/</link>

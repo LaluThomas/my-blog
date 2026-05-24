@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-05-23">
+<meta name="description" content="Learn basic commands like cd, mkdir, dir, and pwd.">
 
-<title>Lalu Thomas</title>
+<title>Introduction to the Command Prompt for Windows – Lalu Thomas</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,22 +28,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3e7735b7b22659e5fa437aca0bb49075.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-3e7735b7b22659e5fa437aca0bb49075.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -81,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Lalu Thomas</span>
     </a>
   </div>
@@ -92,15 +95,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./tutorials.html"> 
+    <a class="nav-link" href="../tutorials.html"> 
 <span class="menu-text">Tutorials</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About Lalu Thomas</span></a>
   </li>  
   <li class="nav-item compact">
@@ -121,33 +124,74 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="profile.jpg" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lalu Thomas</h1>
-</div>
-<div class="quarto-title-meta">
+<h1 class="title">Introduction to the Command Prompt for Windows</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">terminal</div>
+    <div class="quarto-category">beginners</div>
   </div>
-</header><main class="content" id="quarto-document-content">
-<p>I’m Lalu — a CPA‑qualified accountant who learned early on that spreadsheets can only take us so far. I’ve spent years working in finance and accounting, and along the way I’ve become passionate about using technology to make work faster, clearer, and a lot more enjoyable.</p>
+  </div>
+
+<div>
+  <div class="description">
+    Learn basic commands like cd, mkdir, dir, and pwd.
+  </div>
+</div>
 
 
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://www.linkedin.com/in/lalu-thomas-a7480597/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/LaluThomas" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-</div>
-</div>
- <!-- /main -->
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 23, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>This tutorial introduces the command terminal for complete beginners.</p>
+<section id="why-the-command-prompt-matters-also-known-as-cmd-or-the-command-line" class="level2">
+<h2 class="anchored" data-anchor-id="why-the-command-prompt-matters-also-known-as-cmd-or-the-command-line">Why the command prompt matters (also known as cmd or the command line)</h2>
+<p>The command line is a lightweight tool that lets us interact with our computer by typing instructions instead of clicking with a mouse. Mouse‑based actions can sometimes feel slow or clunky, while the terminal stays fast and reliable. It also becomes very useful when we start learning programming, because many tools expect us to use the terminal — and in some cases, it’s the simplest or only way to run certain tasks. Once you get familiar with it, it is fun to use. It just takes a little practice.</p>
+</section>
+<section id="basic-commands" class="level2">
+<h2 class="anchored" data-anchor-id="basic-commands">Basic commands</h2>
+<section id="pwd" class="level3">
+<h3 class="anchored" data-anchor-id="pwd"><code>pwd</code></h3>
+<p>Shows where you are.</p>
+</section>
+<section id="cd" class="level3">
+<h3 class="anchored" data-anchor-id="cd"><code>cd</code></h3>
+<p>Move into a folder.</p>
+</section>
+<section id="cd-.." class="level3">
+<h3 class="anchored" data-anchor-id="cd-.."><code>cd ..</code></h3>
+<p>Move back one level.</p>
+</section>
+<section id="mkdir" class="level3">
+<h3 class="anchored" data-anchor-id="mkdir"><code>mkdir</code></h3>
+<p>Create a new folder.</p>
+</section>
+<section id="dir" class="level3">
+<h3 class="anchored" data-anchor-id="dir"><code>dir</code></h3>
+<p>List files in the current folder.</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
 <footer class="site-footer">
   
   <!--
@@ -172,6 +216,13 @@ ul.task-list li input[type="checkbox"] {
 </footer>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

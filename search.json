@@ -7,6 +7,13 @@
     "text": "I’m Lalu — a CPA‑qualified accountant who learned early on that spreadsheets can only take us so far. I’ve spent years working in finance and accounting, and along the way I’ve become passionate about using technology to make work faster, clearer, and a lot more enjoyable."
   },
   {
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nIntroduction to the Command Prompt for Windows\n\n\n\nterminal\n\nbeginners\n\n\n\nLearn basic commands like cd, mkdir, dir, and pwd.\n\n\n\n\n\nMay 23, 2026\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "It Worked!!",
@@ -21,10 +28,38 @@
     "text": "GitHub contributions\n\n\n\n We probably read many blogs saying why blogging is good — monetising your blog, building a personal brand, opening job opportunities, and so on. Those reasons are fine, but in my view, blogging goes beyond all of that. It’s a place where you can simply be you.\nLife is getting busier and faster. There isn’t much time to wind down. Most of us are constantly shifting between the roles we play — employee, son, daughter, dad, mum. The days blur together: work, dinner, thinking about what to pack for the kids’ lunch, school drop‑off, weekend sports, family and friends’ catch‑ups. It just keeps going.\nIn all of that, there’s hardly any time that actually belongs to you.\nSome people are really good at journalling — like my daughter. She lights a candle and writes in her diary almost every day. She showed me a few pages once, and they were beautiful. Movie tickets, little notes, tiny things that probably have no monetary value, but through preservation they become meaningful. They look like memories you can hold in your hand.\nI’m different. I like being on my computer. I like the ability to backspace, rewrite, and slowly give clarity to my thoughts as I type. Blogging feels like my version of journalling — a digital space where I can pause for a moment and make sense of things.\nAnd I feel like it sparks something. Your imagination wakes up. Your creativity stretches a little. Ideas become clearer.\nEven the technical side of it motivates me. When I write a post and push it to my GitHub repo, seeing those little green contribution boxes appear is strangely satisfying. It’s a small visual reminder that I showed up today. One green box at a time — that’s enough to keep me going.\nI’m also excited about what I’m feeling now. I’m creating something — something I can point to and say, “I made this.” For once, I’m not just a consumer. I’m a creator, or at least I feel like one.\nAnd that’s really what I want this blog to become: a place where I share what I’m learning, help you build your own GitHub repos, and show how a little bit of R or Python can make life easier, more organised, or just more interesting."
   },
   {
+    "objectID": "posts/does-quarto-matters/index.html",
+    "href": "posts/does-quarto-matters/index.html",
+    "title": "Should accountants — or anyone who creates reports — care about Quarto?",
+    "section": "",
+    "text": "As per Quarto it is described as “An open-source scientific and technical publishing system”. Okay… that sounds like something only researchers or programmers would care about.\nBut if you read the second heading on their homepage — “Analyze. Share. Reproduce. You have a story to tell with data—tell it with Quarto.” — it suddenly feels much more relevant. This is exactly what accountants, analysts, and anyone who prepares reports regularly (for example, reports to managers) are already doing: analysing data, sharing results, and producing documents in PDF or Word.\nIt is not just PDF and Word reports that you can prepare with Quarto. You can build a website/blog (without knowing any HTML, CSS or JavaScript - the building blocks of the internet), write a book and more.\n\nIsn’t a dashboard better?Dashboards are great, but organisations still rely heavily on PDF and Word reports. People like the feeling of reading a structured document, and many situations require written context, explanations, commentary, or narrative — things dashboards alone can’t provide.Dashboards show what happened.Reports explain why it matters.\nIs it hard to learn Quarto No — it is not hard at all. In fact, Quarto is probably the easiest way to automate your reports. Remember, you are not learning HTML, CSS, or JavaScript. You don’t need to know anything about how websites are built. You simply write in plain text (Markdown), and Quarto takes care of the formatting, styling, and publishing.\n\nQuarto lets you focus on your content, not the technical details."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lalu Thomas",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nWhy we should blog\n\n\n\nblog\n\npersonal\n\n\n\nWhy we should blog.\n\n\n\n\n\nMay 22, 2026\n\n2 min\n\n\n\n\n\n\nIt Worked!!\n\n\n\nblog\n\npersonal\n\n\n\nThe moment my Quarto blog finally went live — and how it felt.\n\n\n\n\n\nMay 21, 2026\n\n1 min\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nWhy we should blog\n\n\n\nblog\n\npersonal\n\n\n\nWhy we should blog.\n\n\n\n\n\nMay 22, 2026\n\n2 min\n\n\n\n\n\n\nShould accountants — or anyone who creates reports — care about Quarto?\n\n\n\nblog\n\npersonal\n\n\n\nDoes Quarto matters\n\n\n\n\n\nMay 22, 2026\n\n2 min\n\n\n\n\n\n\nIt Worked!!\n\n\n\nblog\n\npersonal\n\n\n\nThe moment my Quarto blog finally went live — and how it felt.\n\n\n\n\n\nMay 21, 2026\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "tutorials/terminal-bascis.html",
+    "href": "tutorials/terminal-bascis.html",
+    "title": "Introduction to the Command Prompt for Windows",
+    "section": "",
+    "text": "This tutorial introduces the command terminal for complete beginners."
+  },
+  {
+    "objectID": "tutorials/terminal-bascis.html#why-the-command-prompt-matters-also-known-as-cmd-or-the-command-line",
+    "href": "tutorials/terminal-bascis.html#why-the-command-prompt-matters-also-known-as-cmd-or-the-command-line",
+    "title": "Introduction to the Command Prompt for Windows",
+    "section": "Why the command prompt matters (also known as cmd or the command line)",
+    "text": "Why the command prompt matters (also known as cmd or the command line)\nThe command line is a lightweight tool that lets us interact with our computer by typing instructions instead of clicking with a mouse. Mouse‑based actions can sometimes feel slow or clunky, while the terminal stays fast and reliable. It also becomes very useful when we start learning programming, because many tools expect us to use the terminal — and in some cases, it’s the simplest or only way to run certain tasks. Once you get familiar with it, it is fun to use. It just takes a little practice."
+  },
+  {
+    "objectID": "tutorials/terminal-bascis.html#basic-commands",
+    "href": "tutorials/terminal-bascis.html#basic-commands",
+    "title": "Introduction to the Command Prompt for Windows",
+    "section": "Basic commands",
+    "text": "Basic commands\n\npwd\nShows where you are.\n\n\ncd\nMove into a folder.\n\n\ncd ..\nMove back one level.\n\n\nmkdir\nCreate a new folder.\n\n\ndir\nList files in the current folder."
   }
 ]
