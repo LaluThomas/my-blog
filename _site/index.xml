@@ -10,7 +10,7 @@
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>This is Lalu Thomas&#39; personal Blog.</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Thu, 21 May 2026 14:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 23 May 2026 14:00:00 GMT</lastBuildDate>
 <item>
   <title>Should accountants — or anyone who creates reports — care about Quarto?</title>
   <dc:creator>Lalu Thomas</dc:creator>
@@ -20,19 +20,37 @@
 
 
 
-<p>As per <a href="https://quarto.org/">Quarto</a> it is described as <strong>“An open-source scientific and technical publishing system”</strong>. Okay… that sounds like something only researchers or programmers would care about.</p>
-<p>But if you read the second heading on their homepage — <em>“Analyze. Share. Reproduce. You have a story to tell with data—tell it with Quarto.”</em> — it suddenly feels much more relevant. This is exactly what accountants, analysts, and anyone who prepares reports regularly (for example, reports to managers) are already doing: <strong>analysing data, sharing results, and producing documents in PDF or Word</strong>.</p>
+<p>As per <a href="https://quarto.org/">Quarto</a> it is described as <strong>“an open-source scientific and technical publishing system”</strong>. Okay… that sounds like something only researchers or programmers would care about.</p>
+<p>But if you read the second heading on their homepage — <em>“Analyze. Share. Reproduce. You have a story to tell with data—tell it with Quarto.”</em> — it suddenly feels much more relevant. This is exactly what accountants, analysts, and anyone who prepares reports regularly are already doing: <strong>analysing data, sharing results, and producing documents in PDF or Word</strong>.</p>
+<p>It is not just PDF and Word reports that you can prepare with Quarto. You can build a <strong>website/blog</strong> (without knowing any HTML, CSS or JavaScript — the building blocks of the internet), write a <strong>book</strong>, publish documentation, and more.</p>
+<p>These tools are free, open‑source, and used by millions of people around the world.</p>
 <ul>
-<li><strong>Isn’t it a dashboard better</strong><br>Dashboards are great, but organisations still rely heavily on <strong>PDF and Word reports</strong>. People like the feeling of reading a structured document, and many situations require <strong>written context, explanations, commentary, or narrative</strong> — things dashboards alone can’t provide.<br><strong>Dashboards show <em>what</em> happened.</strong><br><strong>Reports explain <em>why</em> it matters.</strong></li>
+<li><p><strong>Isn’t a dashboard better?</strong><br>
+Dashboards are great, but organisations still rely heavily on <strong>PDF and Word reports</strong>. People like the feeling of reading a structured document, and many situations require <strong>written context, explanations, commentary, or narrative</strong> — things dashboards alone can’t provide.<br>
+<strong>Dashboards show <em>what</em> happened.</strong><br>
+<strong>Reports explain <em>why</em> it matters.</strong></p></li>
+<li><p><strong>Is it hard to learn Quarto?</strong><br>
+No — it is not hard at all. In fact, Quarto is probably the <strong>easiest way to automate your reports.</strong><br>
+Remember, you are <strong>not</strong> learning HTML, CSS, or JavaScript. You don’t need to know anything about how websites are built. You simply write in plain text (Markdown), and Quarto takes care of the formatting, styling, and publishing — including generating <strong>PDF, Word, and HTML</strong> outputs automatically.<br>
+Quarto lets you focus on <strong>your content</strong>, not the technical details.<br>
+And just to prove the point: this website you’re reading was built with <strong>Quarto over one weekend.</strong></p></li>
+<li><p><strong>Future plans for this website</strong><br>
+I originally built this website just to experiment, but now I genuinely enjoy writing.<br>
+There’s a <strong>tutorials</strong> page on this site (currently a draft of ideas) where I’ll be writing a series of posts on how to create a website/blog and publish it through <strong>GitHub Pages</strong>. This small win matters — it builds motivation, confidence, and momentum. It’s also a great way to test whether you enjoy writing and sharing your story.</p></li>
 </ul>
+<p>Accountants and analysts spend so much time preparing reports, updating numbers, and repeating the same tasks every month. Quarto gives you a way out of that cycle. You build your workflow once, and it works for you every time.</p>
+<p>This website started as a weekend experiment, but it reminded me how powerful small wins can be. If a simple Quarto project can turn into a blog, a workflow, or a habit of writing, imagine what it can do for your reporting process.</p>
+<p>If you’re curious about automating your reports, building a blog, or using R/Python to make your work easier, stay tuned — that’s exactly what I’ll be writing about next.</p>
 
 
 
  ]]></description>
   <category>blog</category>
-  <category>personal</category>
+  <category>quarto</category>
+  <category>report automation</category>
+  <category>dynamic reports</category>
   <guid>https://your-website-url.example.com/posts/does-quarto-matters/</guid>
-  <pubDate>Thu, 21 May 2026 14:00:00 GMT</pubDate>
+  <pubDate>Sat, 23 May 2026 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Why we should blog</title>
