@@ -11,7 +11,7 @@
     "href": "tutorials.html",
     "title": "Tutorials",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nIntroduction to the Command Prompt for Windows\n\n\n\nterminal\n\nbeginners\n\n\n\nLearn basic commands like cd, mkdir, dir, and pwd.\n\n\n\n\n\nMay 23, 2026\n\n1 min\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nLets meet PowerShell\n\n\n\nterminal\n\nbeginners\n\ncommand-line\n\npowershell\n\n\n\nLet’s not touch that mouse for a minute.\n\n\n\n\n\nMay 23, 2026\n\n1 min\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -44,21 +44,28 @@
   {
     "objectID": "tutorials/terminal-bascis.html",
     "href": "tutorials/terminal-bascis.html",
-    "title": "Introduction to the Command Prompt for Windows",
+    "title": "Lets meet PowerShell",
     "section": "",
-    "text": "This tutorial introduces the command terminal for complete beginners."
+    "text": "Navigating your computer without the mouse can feel intimidating at first, especially if you’re a visual person like me. But you really can control your computer through a terminal — an application where you type commands and your computer does exactly what you ask. Once you get familiar with the terminal, you’ll find it surprisingly fun and often much faster than clicking around. And some of the tools we’ll use later — like Git — are simply easier to work with through the terminal (don’t worry if you don’t know what Git is yet)."
   },
   {
-    "objectID": "tutorials/terminal-bascis.html#why-the-command-prompt-matters-also-known-as-cmd-or-the-command-line",
-    "href": "tutorials/terminal-bascis.html#why-the-command-prompt-matters-also-known-as-cmd-or-the-command-line",
-    "title": "Introduction to the Command Prompt for Windows",
-    "section": "Why the command prompt matters (also known as cmd or the command line)",
-    "text": "Why the command prompt matters (also known as cmd or the command line)\nThe command line is a lightweight tool that lets us interact with our computer by typing instructions instead of clicking with a mouse. Mouse‑based actions can sometimes feel slow or clunky, while the terminal stays fast and reliable. It also becomes very useful when we start learning programming, because many tools expect us to use the terminal — and in some cases, it’s the simplest or only way to run certain tasks. Once you get familiar with it, it is fun to use. It just takes a little practice."
+    "objectID": "tutorials/terminal-bascis.html#why-learning-a-terminal-matters",
+    "href": "tutorials/terminal-bascis.html#why-learning-a-terminal-matters",
+    "title": "Lets meet PowerShell",
+    "section": "",
+    "text": "Navigating your computer without the mouse can feel intimidating at first, especially if you’re a visual person like me. But you really can control your computer through a terminal — an application where you type commands and your computer does exactly what you ask. Once you get familiar with the terminal, you’ll find it surprisingly fun and often much faster than clicking around. And some of the tools we’ll use later — like Git — are simply easier to work with through the terminal (don’t worry if you don’t know what Git is yet)."
+  },
+  {
+    "objectID": "tutorials/terminal-bascis.html#lets-open-your-terminal-i-am-using-windows-so-mine-will-be-powershell",
+    "href": "tutorials/terminal-bascis.html#lets-open-your-terminal-i-am-using-windows-so-mine-will-be-powershell",
+    "title": "Lets meet PowerShell",
+    "section": "Lets open your terminal, I am using Windows, so mine will be PowerShell",
+    "text": "Lets open your terminal, I am using Windows, so mine will be PowerShell\nStart typing PowerShell in your Windows search bar (the area next to the Start button).\n\nYou will see Windows PowerShell, click on it to open. You will see your terminal like below.  THIS IS STILL IN DRAFT CONTINUING……on 25 May 2026"
   },
   {
     "objectID": "tutorials/terminal-bascis.html#basic-commands",
     "href": "tutorials/terminal-bascis.html#basic-commands",
-    "title": "Introduction to the Command Prompt for Windows",
+    "title": "Lets meet PowerShell",
     "section": "Basic commands",
     "text": "Basic commands\n\npwd\nShows where you are.\n\n\ncd\nMove into a folder.\n\n\ncd ..\nMove back one level.\n\n\nmkdir\nCreate a new folder.\n\n\ndir\nList files in the current folder."
   }
