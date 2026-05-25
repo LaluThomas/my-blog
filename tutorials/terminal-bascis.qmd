@@ -1,28 +1,40 @@
 ---
-title: "Introduction to the Command Prompt for Windows"
-description: "Learn basic commands like cd, mkdir, dir, and pwd."
+title: "Lets meet PowerShell"
+description: "Let's not touch that mouse for a minute."
 date: "2026-05-23"
-categories: [terminal, beginners]
+categories: [terminal, beginners, command-line, powershell]
 ---
 
-This tutorial introduces the command terminal for complete beginners.
+## Why learning a terminal matters
+Navigating your computer without the mouse can feel intimidating at first, especially if you’re a visual person like me. But you really can control your computer through a terminal — an application where you type commands and your computer does exactly what you ask. Once you get familiar with the terminal, you’ll find it surprisingly fun and often much faster than clicking around. And some of the tools we’ll use later — like Git — are simply easier to work with through the terminal (don’t worry if you don’t know what Git is yet).  
 
-## Why the command prompt matters (also known as cmd or the command line)
-The command line is a lightweight tool that lets us interact with our computer by typing instructions instead of clicking with a mouse. Mouse‑based actions can sometimes feel slow or clunky, while the terminal stays fast and reliable. It also becomes very useful when we start learning programming, because many tools expect us to use the terminal — and in some cases, it’s the simplest or only way to run certain tasks. Once you get familiar with it, it is fun to use. It just takes a little practice.
+## Lets open your terminal, I am using Windows, so mine will be PowerShell
+Start typing **PowerShell** in your Windows search bar (the area next to the Start button).<br>
 
+![](powershell.png){fig-cap="Search for PowerShell in the Windows search bar"}
+
+You will see Windows PowerShell, click on it to open. You will see your terminal like below.
+![](powershell-terminal.png){fig-cap="Search for PowerShell in the Windows search bar"}
+THIS IS STILL IN DRAFT CONTINUING......on 25 May 2026
 
 ## Basic commands
+
 ### `pwd`
+
 Shows where you are.
 
 ### `cd`
+
 Move into a folder.
 
 ### `cd ..`
+
 Move back one level.
 
 ### `mkdir`
+
 Create a new folder.
 
 ### `dir`
+
 List files in the current folder.
